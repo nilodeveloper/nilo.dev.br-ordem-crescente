@@ -1,5 +1,3 @@
-<h1>nilo.dev.br-ordem-crescente</h1>
-
 <h2>O que faz?</h2>
 <p>Algoritimo simples para ordenar números em ordem crescente.</p>
 
